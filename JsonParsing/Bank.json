@@ -1,0 +1,25 @@
+{
+    "title": "List Of Banks",
+    "banklist": [
+        {
+            "xsfjhjlsdkfgh": "SBI",
+            "id": "SBI123",
+            "addresss": "Ambad Link Road",
+            "pincode": "422009",
+        },
+        {
+            "xsfjhjlsdkfgh": "PNB Paribhas",
+            "id": "PNB123",
+            "addresss": "Gangapur Road",
+            "pincode": "422006"
+        },
+        {
+            "xsfjhjlsdkfgh": "BOI",
+            "id": "BOI123",
+            "addresss": "College Road",
+            "pincode": "422010"
+        }
+    ]
+}
+
+
